@@ -18,8 +18,8 @@ terraform {
 }
 
 provider "panos" {
-  hostname = "10.2.19.111"
-  username = "admin"
-  password = "Natilik123!"
+  hostname = xxx
+  username = xxx
+  password = xxx
 
 }
